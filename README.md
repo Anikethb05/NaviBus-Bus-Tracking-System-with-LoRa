@@ -1,3 +1,3 @@
 # Navi_Bus
-##RV University, Semester 2 Final project
+## RV University, Semester 2 Final project
 ## Bus Tracking System.
