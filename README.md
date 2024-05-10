@@ -9,8 +9,6 @@
 - Arduino uno       --> 2 pieces
 - Jumper Wires      --> 1 pack
 - Bread Board       --> 2 pieces
-- Node MCU          --> 1 piece
-
 
 ## Software Requirements
 - Arduino IDE (on at least 2 systems)
